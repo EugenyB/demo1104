@@ -1,0 +1,5 @@
+1 Vova 75.0
+2 Vasya 75.0
+3 Katya 74.0
+4 Petya 85.0
+5 Vova 65.0
